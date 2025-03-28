@@ -10,4 +10,7 @@
 	<feature name="Donation"/>
 	<feature name="DirectPayment"/>
 	<feature name="PaymentGateway"/>
+	<feature name="PaymentEWallet"/>
+	<feature name="PaymentTransfer"/>
+	<feature name="PaymentCreditCard"/>
 </configuration>

@@ -25,5 +25,14 @@
 	],
 	"PaymentGateway": [
 		"aisco.donation.pgateway"
+	],
+	"PaymentCreditCard": [
+		"aisco.donation.pcreditcard"
+	],
+	"PaymentTransfer": [
+		"aisco.donation.ptransfer"
+	],
+	"PaymentEWallet": [ 
+		"aisco.donation.pewallet"
 	]
 }

@@ -9,8 +9,8 @@
 	<feature manual="selected" name="Expense"/>
 	<feature automatic="selected" name="Donation"/>
 	<feature automatic="unselected" name="DirectPayment"/>
-	<feature manual="selected" name="PaymentGateway"/>
+	<feature automatic="unselected" name="PaymentGateway"/>
 	<feature automatic="unselected" name="PaymentEWallet"/>
-	<feature automatic="unselected" name="PaymentTransfer"/>
+	<feature manual="selected" name="PaymentTransfer"/>
 	<feature automatic="unselected" name="PaymentCreditCard"/>
 </configuration>
