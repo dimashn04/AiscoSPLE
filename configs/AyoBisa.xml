@@ -6,7 +6,7 @@
 	<feature manual="selected" name="Operational"/>
 	<feature automatic="selected" name="FinancialReport"/>
 	<feature automatic="selected" name="Income"/>
-	<feature name="Expense"/>
+	<feature manual="selected" name="Expense"/>
 	<feature automatic="selected" name="Donation"/>
 	<feature automatic="unselected" name="DirectPayment"/>
 	<feature automatic="unselected" name="PaymentGateway"/>

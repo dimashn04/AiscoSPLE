@@ -11,6 +11,6 @@
 	<feature automatic="unselected" name="DirectPayment"/>
 	<feature automatic="unselected" name="PaymentGateway"/>
 	<feature automatic="unselected" name="PaymentEWallet"/>
-	<feature manual="selected" name="PaymentTransfer"/>
-	<feature automatic="unselected" name="PaymentCreditCard"/>
+	<feature automatic="unselected" name="PaymentTransfer"/>
+	<feature manual="selected" name="PaymentCreditCard"/>
 </configuration>
